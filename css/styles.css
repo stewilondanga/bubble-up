@@ -62,11 +62,11 @@ nav ul li span {
   z-index: -1;
 }
 
-/*
 nav ul li:hover {
-    color: black;
+  color: black;
 }
 
+/*
 nav ul li:hover span {
     transform: translateY(0) scale(2);
 }
