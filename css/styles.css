@@ -103,7 +103,6 @@ nav ul li span:nth-child(4) {
   border-bottom: 3px solid #f3f3f3;
 }
 
-/*
 .cal {
   display: inline-block;
   background: #ffe;
@@ -114,6 +113,7 @@ nav ul li span:nth-child(4) {
   transition: all 0.2s linear;
 }
 
+/*
 .cal:hover {
   transform: scale(2.5);
   transition: all 0.4s linear;
