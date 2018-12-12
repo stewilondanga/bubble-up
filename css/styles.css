@@ -113,12 +113,12 @@ nav ul li span:nth-child(4) {
   transition: all 0.2s linear;
 }
 
-/*
 .cal:hover {
   transform: scale(2.5);
   transition: all 0.4s linear;
 }
 
+/*
 .cal caption {
   background: #d44;
   color: #eee;
